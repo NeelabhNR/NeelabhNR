@@ -28,13 +28,10 @@
 <br />
 
 [<img align="left" alt="React" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]()
-[<img align="left" alt="Deno" width="36px" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" />]()
 [<img align="left" alt="Deno" width="36px" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" />]()
 [<img align="left" alt="Deno" width="36px" src="https://seeklogo.com/images/G/github-logo-9BBCA663A4-seeklogo.com.png" />]()
 [<img align="left" alt="Deno" width="36px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" />]()
-[<img align="left" alt="Deno" width="36px" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" />]()
-[<img align="left" alt="Deno" width="36px" src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" />]()
-[<img align="left" alt="Deno" width="36px" src="https://seeklogo.com/images/R/redux-saga-logo-AE1FDBAECF-seeklogo.com.png" />]()
+
 
 <br />
 <br />
@@ -42,10 +39,10 @@
 <br />
 
 
->[![Neelabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=inrittik&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+>[![Neelabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeelabhNR&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
->[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inrittik&langs_count=10&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeelabhNR&langs_count=10&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
