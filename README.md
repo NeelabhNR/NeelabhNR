@@ -1,6 +1,6 @@
 # Hi, I’m Neelabh!
  
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=NeelabhNR.visitor-badge) [![GitHub avinash201199](https://img.shields.io/github/followers/inrittik?label=follow&style=social)](https://github.com/avinash201199)&nbsp;
+<!--![Visitors](https://visitor-badge.glitch.me/badge?page_id=NeelabhNR.visitor-badge) [![GitHub avinash201199](https://img.shields.io/github/followers/inrittik?label=follow&style=social)](https://github.com/avinash201199)&nbsp; -->
  
  👉&emsp;BTech Student at National Institute of Technology Silchar
  <br />
