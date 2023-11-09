@@ -14,8 +14,6 @@
  
 [<img align="left" alt="Deno" width="36px" src="https://isocpp.org/files/img/cpp_logo.png" />]()
 [<img align="left" alt="Deno" width="36px" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" />]()
-[<img align="left" alt="Deno" width="36px" src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" />]()
-[<img align="left" alt="Deno" width="36px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" />]()
 [<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
 [<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
 [<img align="left" alt="Node.js" width="36px" src="https://seeklogo.com/images/N/nodejs-logo-54107C5EDD-seeklogo.com.png" />]()
